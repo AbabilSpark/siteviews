@@ -20,7 +20,7 @@ Add the script tag to your HTML and configure it with the attributes below:
     <p>Views: <span id="views">Loading...</span></p>
 
     <script
-      src="https://unpkg.com/siteviews@2.1.0/dist/index.js"
+      src="https://unpkg.com/siteviews@2.1.1/dist/index.js"
       type="application/javascript"
       scriptfor="siteviews"
       project-name="my-site"
@@ -59,8 +59,8 @@ Uses [tsup](https://tsup.egoist.dev/) and TypeScript for bundling.
 
 ## License
 
-MIT © [DevAbabil](https://github.com/DevAbabil)
+MIT © [AbabilSpark](https://github.com/AbabilSpark)
 
 ## Contributing
 
-Found a bug or want a new feature? [Open an issue](https://github.com/DevAbabil/siteviews/issues).
+Found a bug or want a new feature? [Open an issue](https://github.com/AbabilSpark/siteviews/issues).
