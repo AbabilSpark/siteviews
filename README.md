@@ -20,7 +20,7 @@ Add the script tag to your HTML and configure it with the attributes below:
     <p>Views: <span id="views">Loading...</span></p>
 
     <script
-      src="https://unpkg.com/siteviews@2.1.1/dist/index.js"
+      src="https://unpkg.com/siteviews@2.1.2/dist/index.js"
       type="application/javascript"
       scriptfor="siteviews"
       project-name="my-site"

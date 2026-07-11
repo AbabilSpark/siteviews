@@ -4,7 +4,7 @@
  * @author          Md Ababil Hossain (https://devababil.com)
  * @website         https://siteviews.ababilspark.com
  * @license         MIT
- * @version         2.1.0
+ * @version         2.1.2
  * @repository      https://github.com/AbabilSpark/siteviews
  * @created         2024-11-10
  * @lastModified    2026-07-12
