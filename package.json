@@ -1,6 +1,6 @@
 {
   "name": "siteviews",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "description": "Plug-and-play website views counter with zero configuration. Just add one script tag with a few attributes to start tracking visits and showing customizable view counts, user info, and toast notifications.",
   "scripts": {
     "build": "tsup"
@@ -33,12 +33,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevAbabil/siteviews.git"
+    "url": "git+https://github.com/AbabilSpark/siteviews.git"
   },
   "bugs": {
-    "url": "https://github.com/DevAbabil/siteviews/issues"
+    "url": "https://github.com/AbabilSpark/siteviews/issues"
   },
-  "homepage": "https://siteviews.netlify.app",
+  "homepage": "https://siteviews.ababilspark.com",
   "devDependencies": {
     "@types/node": "^22.14.1",
     "slugify": "^1.6.6",
